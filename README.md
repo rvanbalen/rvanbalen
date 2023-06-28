@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rvanbalen
-- 👀 I’m interested in Azure Virtual Desktop, DevOps, IaC
-- 🌱 I’m currently learning Github Actions
+- 👋 Hi, I’m René
+- 👀 I’m working with Azure Virtual Desktop, Citrix, NetScaler and IaC
+- 🌱 I’m currently learning Terraform and Ansible
 
 Happy coding!
 
