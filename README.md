@@ -2,6 +2,7 @@
 
 - 🔭 I’m working on Azure Virtual Desktop deployments, Citrix and NetScaler projects
 - 🌱 I’m learning Terraform and Ansible
+- 💬 Ask me about ...
 
 Happy coding!
 
