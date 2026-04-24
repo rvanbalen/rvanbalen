@@ -1,24 +1,22 @@
-### 👋 Hi, I’m René
+### 👋 Hi, I'm René van Balen
 
-- 🔭 I’m working on Azure Virtual Desktop deployments, Citrix and NetScaler projects
-- 🌱 I’m learning Terraform and Ansible
-- 💬 Ask me about NetScaler, PKI, Azure Virtual Desktop
-- ⚡ Fun fact: avid ballroom dancer
+IT infrastructure consultant focused on end-user computing and network security.
+I design and maintain Azure Virtual Desktop, Citrix, and NetScaler environments
+and am currently automating it all with Terraform and Ansible.
 
-Happy coding!
+---
 
-<!---
-rvanbalen/rvanbalen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**What I work with**
 
-Here are some ideas to get you started:
+- 🖥️ End-user computing: Azure Virtual Desktop, Citrix DaaS, Citrix Virtual Apps & Desktops
+- 🌐 Networking & security: NetScaler (ADC/Gateway), PKI, SSL/TLS
+- ☁️ Cloud: Microsoft Azure
+- ⚙️ Automation: Terraform, Ansible (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+---
+
+**Ask me about** NetScaler, PKI, or Azure Virtual Desktop
+
+---
+
+⚡ When I'm not in a terminal, I'm on the ballroom dance floor.
